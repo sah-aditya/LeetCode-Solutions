@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
