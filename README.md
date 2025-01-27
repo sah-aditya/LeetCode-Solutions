@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
