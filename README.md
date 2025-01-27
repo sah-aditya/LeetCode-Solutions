@@ -32,8 +32,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
