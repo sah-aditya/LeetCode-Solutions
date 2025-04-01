@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
