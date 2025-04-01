@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
