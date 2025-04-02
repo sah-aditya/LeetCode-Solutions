@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
