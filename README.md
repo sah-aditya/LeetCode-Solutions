@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
