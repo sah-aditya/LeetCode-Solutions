@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
 | ------- |
