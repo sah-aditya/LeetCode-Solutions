@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,4 +183,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
