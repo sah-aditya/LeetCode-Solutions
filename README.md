@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
 |  |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
