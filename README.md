@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -211,4 +214,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
