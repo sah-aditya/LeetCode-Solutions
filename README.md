@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [1768-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
