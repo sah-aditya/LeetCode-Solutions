@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0743-network-delay-time](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
