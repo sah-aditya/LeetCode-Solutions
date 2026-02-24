@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
