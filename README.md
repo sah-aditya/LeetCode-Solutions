@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0792-binary-search](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
 |  |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -265,5 +268,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
