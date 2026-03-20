@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
