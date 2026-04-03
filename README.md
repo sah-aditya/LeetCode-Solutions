@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## String Matching
 |  |
