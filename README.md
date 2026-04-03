@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
