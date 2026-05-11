@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -270,11 +271,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Design
