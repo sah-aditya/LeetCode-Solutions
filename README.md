@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0733-flood-fill](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Design
 |  |
