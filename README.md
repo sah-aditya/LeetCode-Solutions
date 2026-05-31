@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -366,4 +367,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
