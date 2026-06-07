@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1143-longest-common-subsequence](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [1143-longest-common-subsequence](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
