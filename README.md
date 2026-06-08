@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0198-house-robber) |
