@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1580-shuffle-the-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/sah-aditya/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Counting
